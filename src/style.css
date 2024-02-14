@@ -122,7 +122,8 @@ main {
 .weather-forecast-icon {
   font-size: 38px;
   text-align: center;
-}
+  
+
 .weather-forecast-temperatures {
   text-align: center;
   color: #15439d;
